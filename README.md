@@ -23,3 +23,4 @@ Reddit.png => 509 B to 506 B
 TODO:  
 * Change the images completly with base64 versions, see base64.md  
 * Include everything outlinked, like Google fonts.
+* Check if the fonts has to much stuff in it to reduce the size
