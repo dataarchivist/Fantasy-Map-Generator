@@ -21,4 +21,5 @@ preview.png => 90.3 KB to 72.8 KB
 Reddit.png => 509 B to 506 B  
 
 TODO:  
-Change the images completly with base64.
+Change the images completly with base64.  
+The coded is already in base64.md
